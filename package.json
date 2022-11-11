@@ -1,0 +1,23 @@
+{
+  "name": "course-dowloader",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "caio queiroz",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "axios": "^1.1.3",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+"keywords": [
+    "alura",
+    "vídeo aulas",
+    "download",
+    "videos",
+    "alura-download"
+  ]
+}
